@@ -1,7 +1,10 @@
 # Binary Classification on Imbalanced Data
 Predicting the occurrence of a recession based on African countries data from 2000 - 2017.
 
-Approaches evaluated:
+**Tools:**
+python, seaborn, scikit-learn 
+
+**Approaches evaluated:**
 1.  Decision tree algorithm
 2.  Ensemble methods
 3.  Cost-sensitive learning
